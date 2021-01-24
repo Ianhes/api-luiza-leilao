@@ -17,7 +17,7 @@
 #### - [x] Consulta de veículos por faixa de ano de fabricação    
 #### - [x] Consultas ordenadas por data do lance
 ### Tecnologias envolvidas
- - [Java 11] (https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html)
- - [Springboot] (https://spring.io/projects/spring-boot)
- - [Lombok] (https://projectlombok.org/)
+#### - [Java 11](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html)
+#### - [Springboot](https://spring.io/projects/spring-boot)
+#### - [Lombok](https://projectlombok.org/)
 
